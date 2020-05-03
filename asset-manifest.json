@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/TouristPlace/static/css/main.5e286f4b.chunk.css",
+    "main.js": "/TouristPlace/static/js/main.44495aee.chunk.js",
+    "main.js.map": "/TouristPlace/static/js/main.44495aee.chunk.js.map",
+    "runtime-main.js": "/TouristPlace/static/js/runtime-main.eab1e72f.js",
+    "runtime-main.js.map": "/TouristPlace/static/js/runtime-main.eab1e72f.js.map",
+    "static/css/2.81faf514.chunk.css": "/TouristPlace/static/css/2.81faf514.chunk.css",
+    "static/js/2.2c1368fa.chunk.js": "/TouristPlace/static/js/2.2c1368fa.chunk.js",
+    "static/js/2.2c1368fa.chunk.js.map": "/TouristPlace/static/js/2.2c1368fa.chunk.js.map",
+    "index.html": "/TouristPlace/index.html",
+    "precache-manifest.c624e37465fd2fdbb48752e8e511a643.js": "/TouristPlace/precache-manifest.c624e37465fd2fdbb48752e8e511a643.js",
+    "service-worker.js": "/TouristPlace/service-worker.js",
+    "static/css/2.81faf514.chunk.css.map": "/TouristPlace/static/css/2.81faf514.chunk.css.map",
+    "static/css/main.5e286f4b.chunk.css.map": "/TouristPlace/static/css/main.5e286f4b.chunk.css.map",
+    "static/js/2.2c1368fa.chunk.js.LICENSE.txt": "/TouristPlace/static/js/2.2c1368fa.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/TouristPlace/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eab1e72f.js",
+    "static/css/2.81faf514.chunk.css",
+    "static/js/2.2c1368fa.chunk.js",
+    "static/css/main.5e286f4b.chunk.css",
+    "static/js/main.44495aee.chunk.js"
+  ]
+}
